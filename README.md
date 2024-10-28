@@ -1,2 +1,2 @@
-# Crypography
+# Cryptography
 Ciphers and Security protocals 
